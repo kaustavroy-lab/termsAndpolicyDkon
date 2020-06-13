@@ -1,0 +1,120 @@
+{
+  "settings": {
+    "name": "Terms and Conditions for using our services",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.0",
+    "siteFonts": [],
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/splash-128x128.png",
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": true,
+      "text": "By continuing you agree to our <a href='https://kaustavroy-lab.github.io/termsAndpolicyDkon/'>Terms and Conditions for using our services</a>"
+    },
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "uniqCompNum": 4,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "10",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/app-intro-1080x1920.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/splash-512x512.png",
+              "link": "",
+              "alt": "Dristikon Online App",
+              "title": "Dristikon Online App"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Terms and Conditions for using our services",
+          "text": "<p>Thanks to all the users as well as the members of our Dristikon family. Everyone is hereby requested to agree with the fair use of our services that we provide to all. As an user and consumer of our services, please abide by the terms and conditions provided in our community guidelines.</p><p>The prime motive of Dristikon is to highlight the social and cultural aspects of our society. Dristikon is nothing but a group of people who want to prosper with their passion. If you're interested in working with us, feel free to contact our admin panel and we will provide you with a platform before the world. Never suppress your talent within yourself. Let it explode in front of everyone. All you need is discover your passion and all we need is members like you, thereby we will be able to create even a bigger community than what we have now.</p><p>We don't discriminate between anyone or anything, thus we always want our services to reach everyone. Dristikon App is a platform that is meant for all. Therefore, please maintain purity in your words and never be biased towards anyone in our community. Use our contents fairly, don't create any violence and never belittle anyone. For any decision to be taken, the words of our admin panel will be considered final and everyone in our Dristikon family should obey that. If you have any suggestions, please contact us in person. We're open for suggestions, because we are always eager for the betterment of this app. We would try to gather as much knowledge as possible from everyone and you're no exception.</p><p>Thank you once again for standing by us. We only consider our work as success, when it's liked and  enjoyed by others. Every community shall seek for progress with their passion and responsibilities. That's what it takes to become a team, or perhaps a family. Like we always promise, we will give our best efforts to prosper with our passion and motive. In our venture to the excellence, we will definitely need you because ultimately, it's our audience for whom we're motivated to develop our contents.</p><p>~ <b>Team Dristikon</b></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "16px",
+              "text-align": "right",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "10px"
+            }
+          },
+          "headerAlign": "right",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Terms And Conditions&nbsp;</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3"
+        }
+      ]
+    }
+  }
+}

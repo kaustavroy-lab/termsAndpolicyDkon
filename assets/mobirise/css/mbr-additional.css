@@ -1,14 +1,17 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 
 #msg-box4-3 .mbr-header__text {
   color: #ffffff;
   font-size: 16px;
   text-align: right;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Merriweather', serif;
 }
 #msg-box4-3 .mbr-header__subtext {
   color: #ffffff;
 }
 #msg-box4-3 .mbr-article {
   color: #ffffff;
+}
+#msg-box4-3 .btn {
+  font-size: 10px;
 }
